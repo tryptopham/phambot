@@ -1,0 +1,16 @@
+{
+    "RESUME": "Welcome to PHAMBOT 3000! I will be your guide to Steve Pham.\n[steve](http://tryptopham.sodoto.net/img/icon.steve.jpg)\nHe wants to leverage his EMERGENCY medicine, SOFTWARE design, and BUSINESS development experience so that we deliver better value at the LAST MILE.\nHe also creates PHOTOGRAPHY and WEB sites as hobbies.",
+    "EMERGENCY": "He is available for on-demand telemedicine consultations at https://doxy.me/tryptopham.\nHe is also really embarassed by his appearance on NY Med: https://youtu.be/GLVeMAPD2wE?t=7m32s. He even has an IMDB page: http://imdb.com/name/nm5306697/",
+    "SOFTWARE": "He has built DATA visualization tools, EDUCATION applications, HOSPITAL prototypes, and POPULATION surveillance tools.",
+    "BUSINESS": "He is currently working on ERDIRECT, and previously developed a WEARABLE medical record prototype, and an innovation LAB pitch.",
+    "WEARABLE": "He prototyped using Tessel microcontrollers. See him pitch at https://youtu.be/wCofqzHTmoo and his presentation for IDEO: http://tryptopham.sodoto.net/wmr/",
+    "PHOTOGRAPHY": "He has won a photography travel award: http://www.nypemergency.org/pdf/Pham_Photo_Contest.pdf",
+    "WEB": "He is particularly proud of his leaving NYC site: http://tryptopham.sodoto.net/STD/",
+    "POPULATION": "He built a mobile jQuery + CloundAnt app for the Kumbh Mela holy mass gathering in India in 2013.\nCreate surveys at https://tryptopham.cloudant.com/emcounter/_design/emcounter/index.html \nCollect data on https://tryptopham.cloudant.com/emcounter/_design/emcounter/surveyor.html",
+    "DATA": "He has used R, MySQL, D3js, Visual C# to analyze multiple data sets and surface visual insights.\nAt Columbia University, he created a predictive model for pediatric inpatient serum sodium levels: http://ncbi.nlm.nih.gov/pubmed/21347059 \nAt Pittsburgh's WISER simulation center, he visualized decision making: http://www.wiser.pitt.edu/sites/wiser/media/pdf/2010IMSH_decisionmaking.pdf",
+    "EDUCATION": "He created a model and a mobile application for rash diagnosis for his co-residents: http://tryptopham.sodoto.net/emrash/",
+    "ERDIRECT": "He is currently building a mobile healthcare delivery platform to reduce readmissions during the transitional post-acute phase. Our mid-level practitioners visit high risk patients at home: http://erdirect.com",
+    "LAB": "He developed and coded the entire pitch for an innovation lab proposal for New York Presbyterian Hospital: http://ilab.sodoto.net/",
+    "CONNECT ME": "Deactivating Resume Bot. =.(",
+    "DISCONNECT": "Reactivating Resume Bot..."
+}

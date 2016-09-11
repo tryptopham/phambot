@@ -1,0 +1,22 @@
+{
+  "name": "Resume Bot",
+  "description": "Interactive SMS Resume Bot",
+  "keywords": ["tryptopham", "bot", "express"],
+  "website": "www.linkedin.com/in/tryptopham",
+  "repository": "https://github.com/tryptopham/resume-bot",
+  "logo": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/10352259_10103772624681703_4328138251801789168_n.jpg?oh=8701d6b5b30b2aa171382bfc0c97559e&oe=58476DB0",
+  "env": {
+    "SMOOCH_APP_TOKEN": {
+      "description": "8spr8pbluyg8mqhqnq1z5shxy",
+      "required": true
+    },
+    "SMOOCH_KEY_ID": {
+      "description": "app_57d3ff6d98447536016f5826",
+      "required": true
+    },
+    "SMOOCH_SECRET": {
+      "description": "EbzaNQIl61UWQs0U3Mxz2vr6",
+      "required": true
+    }
+  }
+}
