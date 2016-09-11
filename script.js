@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Welcome to PHAMBOT 3000, the resume bot of Steve Pham. Please message RESUME for the full experience. Or, CONTACT me anytime.')
+            return bot.say('Welcome to PHAMBOT 3000, the resume bot of Steve Pham. Please message RESUME for the full experience. Or, CONTACT me anytime. All COMMANDS are in upper case.')
                 .then(() => 'speak');
         }
     },
