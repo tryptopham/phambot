@@ -10,8 +10,6 @@ const jwt = jsonwebtoken.sign({
     }
 });
 
-console.log("smooch secret: " + process.env.SMOOCH_SECRET);
-
 module.exports = jwt;
 
 // If run directly, print JWT to cmd line
