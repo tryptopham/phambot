@@ -7,8 +7,6 @@ const SmoochApiBot = smoochBot.SmoochApiBot;
 const StateMachine = smoochBot.StateMachine;
 const app = require('../app');
 
-console.log("secret: " + process.env.SMOOCH_SECRET);
-
 const script = require('../script');
 const SmoochCore = require('smooch-core');
 const jwt = require('../jwt');
