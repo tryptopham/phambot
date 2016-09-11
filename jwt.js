@@ -2,6 +2,8 @@
 
 const jsonwebtoken = require('jsonwebtoken');
 
+console.log("secret: " + process.env.SMOOCH_SECRET);
+
 const jwt = jsonwebtoken.sign({
     scope: 'app'
 }, process.env.SMOOCH_SECRET, {
