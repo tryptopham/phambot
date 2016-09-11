@@ -7,16 +7,16 @@
   "logo": "https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/10352259_10103772624681703_4328138251801789168_n.jpg?oh=8701d6b5b30b2aa171382bfc0c97559e&oe=58476DB0",
   "env": {
     "SMOOCH_APP_TOKEN": {
-      "description": "8spr8pbluyg8mqhqnq1z5shxy",
+      "value": "8spr8pbluyg8mqhqnq1z5shxy",
       "required": true
     },
     "SMOOCH_KEY_ID": {
-      "description": "app_57d4d91b76df6f6a0090db88",
+      "value": "app_57d4d91b76df6f6a0090db88",
       "required": true
     },
     "SMOOCH_SECRET": {
-      "description": "o34JDRjMcu74cZFSaEYHBa84",
-      "generator": "secret"
+      "value": "o34JDRjMcu74cZFSaEYHBa84",
+      "required": true
     }
   }
 }
