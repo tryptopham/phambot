@@ -11,11 +11,11 @@
       "required": true
     },
     "SMOOCH_KEY_ID": {
-      "description": "app_57d3ff6d98447536016f5826",
+      "description": "app_57d4d91b76df6f6a0090db88",
       "required": true
     },
     "SMOOCH_SECRET": {
-      "description": "EbzaNQIl61UWQs0U3Mxz2vr6",
+      "description": "o34JDRjMcu74cZFSaEYHBa84",
       "required": true
     }
   }
