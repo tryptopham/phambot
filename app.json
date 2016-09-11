@@ -16,7 +16,7 @@
     },
     "SMOOCH_SECRET": {
       "description": "o34JDRjMcu74cZFSaEYHBa84",
-      "required": true
+      "generator": "secret"
     }
   }
 }
