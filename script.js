@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Welcome to PHAMBOT 3000, the resume bot of Steve Pham. Please message RESUME for the full experience. Or, ask me anything.')
+            return bot.say('Welcome to PHAMBOT 3000, the resume bot of Steve Pham. Please message RESUME for the full experience. Or, CONTACT me anytime.')
                 .then(() => 'speak');
         }
     },
@@ -43,9 +43,9 @@ module.exports = new Script({
                     return Promise.resolve("speak");
                 }
 
-                if (!_.has(scriptRules, upperText)) {
+/*                if (!_.has(scriptRules, upperText)) {
                     return bot.say(`I didn't understand that. Please message RESUME to restart.`).then(() => 'speak');
-                }
+                }*/
 
                 var response = scriptRules[upperText];
                 var lines = response.split('\n');
