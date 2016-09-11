@@ -8,7 +8,7 @@
   "WEARABLE": "He prototyped using Tessel microcontrollers. See him pitch at https://youtu.be/wCofqzHTmoo and his presentation for IDEO: http://tryptopham.sodoto.net/wmr/",
   "PHOTOGRAPHY": "He has won a photography travel award: http://www.nypemergency.org/pdf/Pham_Photo_Contest.pdf",
   "WEB": "He is particularly proud of his leaving NYC site: http://tryptopham.sodoto.net/STD/",
-  "POPULATION": "He built a mobile jQuery + CloundAnt app for the Kumbh Mela holy mass gathering in India in 2013.\nCreate surveys at https://tryptopham.cloudant.com/emcounter/_design/emcounter/index.html \nCollect data on https://tryptopham.cloudant.com/emcounter/_design/emcounter/surveyor.html",
+  "POPULATION": "He built a mobile jQuery + CloundAnt app for the Kumbh Mela holy mass gathering in India in 2013.\nYou can create surveys at https://tryptopham.cloudant.com/emcounter/_design/emcounter/index.html \nYou can collect data at https://tryptopham.cloudant.com/emcounter/_design/emcounter/surveyor.html",
   "DATA": "He has used R, MySQL, D3js, Visual C# to analyze multiple data sets and surface visual insights.\nAt Columbia University, he created a predictive model for pediatric inpatient serum sodium levels: http://ncbi.nlm.nih.gov/pubmed/21347059 \nAt Pittsburgh's WISER simulation center, he visualized decision making: http://www.wiser.pitt.edu/sites/wiser/media/pdf/2010IMSH_decisionmaking.pdf",
   "HOSPITAL": "He created a prototype mobile application for Emergency Medicine physicians to digitally sign EKGs: https://marvelapp.com/h8bcb",
   "EDUCATION": "He created a model and a mobile application for rash diagnosis for his co-residents: http://tryptopham.sodoto.net/emrash/",
