@@ -14,6 +14,9 @@
       "description": "app_57d4d91b76df6f6a0090db88",
       "required": true
     },
-    "SMOOCH_SECRET": "o34JDRjMcu74cZFSaEYHBa84"
+    "SMOOCH_SECRET": {
+      "description": "o34JDRjMcu74cZFSaEYHBa84",
+      "required": true
+    }
   }
 }
