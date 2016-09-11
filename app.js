@@ -1,5 +1,7 @@
 'use strict';
 
+console.log("loading app.js");
+
 const express = require('express');
 const bodyParser = require('body-parser');
 const app = express();
@@ -10,8 +12,6 @@ app.set('view engine', 'hbs');
 app.use(bodyParser.json());
 
 app.get('/', function(req, res) {
-    console.log("secret: " + process.env.SMOOCH_SECRET);
-    console.log("key: " + process.env.SMOOCH_KEY_ID);
     res.render('index', {
         appToken: process.env.SMOOCH_APP_TOKEN
     });
