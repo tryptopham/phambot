@@ -6,6 +6,9 @@ const SmoochApiStore = smoochBot.SmoochApiStore;
 const SmoochApiBot = smoochBot.SmoochApiBot;
 const StateMachine = smoochBot.StateMachine;
 const app = require('../app');
+
+console.log("secret: " + process.env.SMOOCH_SECRET);
+
 const script = require('../script');
 const SmoochCore = require('smooch-core');
 const jwt = require('../jwt');
@@ -56,7 +59,7 @@ function createWebhook(smoochCore, target) {
                         console.error('Error creating Smooch webhook:', err);
                         console.error(err.stack);
                     });
-            }            
+            }
         )
         .catch((err) => {
             console.error('Error creating Smooch webhook:', err);
@@ -93,7 +96,7 @@ app.post('/webhook', function(req, res, next) {
             store,
             userId
         })
-    });    
+    });
 
     if(!isPostback) {
         const messages = req.body.messages.reduce((prev, current) => {
