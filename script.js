@@ -43,9 +43,10 @@ module.exports = new Script({
                     return Promise.resolve("speak");
                 }
 
-/*                if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I didn't understand that. Please message RESUME to restart.`).then(() => 'speak');
-                }*/
+                if (!_.has(scriptRules, upperText)) {
+                  //I didn't understand that. Please message RESUME to restart.
+                    return bot.say(``).then(() => 'speak');
+                }
 
                 var response = scriptRules[upperText];
                 var lines = response.split('\n');
