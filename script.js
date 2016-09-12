@@ -46,7 +46,7 @@ module.exports = new Script({
 
                 if (!_.has(scriptRules, upperText)) {
                   //bot.say(`I didn't understand that. Please message RESUME to restart.`).then(() => 'speak')
-                    return bot.say(`I didn't understand that. Please message RESUME to restart.`).then(() => 'speak');
+                    return Promise.resolve();
                 }
 
                 var response = scriptRules[upperText];
