@@ -6,11 +6,11 @@ const Script = require('smooch-bot').Script;
 const scriptRules = require('./script.json');
 
 module.exports = new Script({
-    processing: {
+/*    processing: {
         //prompt: (bot) => bot.say('Beep boop...'),
         //receive: () => 'processing'
         receive: () => 'speak'
-    },
+    }, */
 
     start: {
         receive: (bot) => {
@@ -45,8 +45,8 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                  //I didn't understand that. Please message RESUME to restart.
-                    return bot.say(``).then(() => 'speak');
+                  //bot.say(`I didn't understand that. Please message RESUME to restart.`).then(() => 'speak')
+                    return Promise.resolve("speak");
                 }
 
                 var response = scriptRules[upperText];
