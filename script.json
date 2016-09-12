@@ -1,7 +1,7 @@
 {
   "COMMANDS": "SMS ASSIST, RESUME, EMERGENCY, SOFTWARE, BUSINESS, WEARABLE, PHOTOGRAPHY, WEB, POPULATION, DATA, HOSPITAL, EDUCATION, ERDIRECT, LAB, LAST MILE, CONTACT",
   "ASSIST": "All possible SMS responses are in upper case. To start over, try RESUME. COMMANDS lists all response options. Or you can CONTACT Steve.",
-  "RESUME": "Welcome to PHAMBOT 3000! I will be your guide to Steve Pham. Feel free to CONTACT him anytime.\n![steve](http://tryptopham.sodoto.net/img/icon.steve.jpg)\nSteve wants to leverage his EMERGENCY medicine, SOFTWARE design, and BUSINESS development experience so that we deliver better value at the LAST MILE.\nHe also creates PHOTOGRAPHY and WEB sites as hobbies.",
+  "RESUME": "Welcome to PHAMBOT 3000! I will be your guide to Steve Pham. Feel free to CONTACT him anytime.\n![steve](http://tryptopham.sodoto.net/img/icon.steve.jpg)\nSteve wants to leverage his EMERGENCY medicine, SOFTWARE coding, and BUSINESS development skills to deliver better value at the LAST MILE.\nHis hobbies include PHOTOGRAPHY and WEB design.\nHow may I ASSIST you?",
   "EMERGENCY": "He is available for on-demand telemedicine consultations at doxy.me/tryptopham.\nHe is also really embarassed by his appearance on NY Med: youtu.be/GLVeMAPD2wE?t=7m32s. He even has an IMDB page: imdb.com/name/nm5306697/",
   "SOFTWARE": "He has built DATA visualization tools, EDUCATION applications, HOSPITAL prototypes, and POPULATION surveillance tools.",
   "BUSINESS": "He is currently working on ERDIRECT, and previously developed a WEARABLE medical record prototype, and an innovation LAB pitch.",
